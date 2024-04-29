@@ -1,8 +1,14 @@
 # WorkoutAPI
 
+[![Python Version](https://img.shields.io/badge/python-3.11.4-blue.svg)](https://www.python.org/downloads/)
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/FrancaPh)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-
-
+## Descrição
+Essa API foi criada como desafio de um lab durante um bootcamp da **[DIO](https://web.dio.me)** com parceria da Vivo, [Python AI Backend Developer](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer).
+O desafio consiste na criação de uma poderosa API assíncrona de um academia para uma competição de crossfit. Usando o framework FastAPI, permitiu a construção eficiente desse aplicativo web, moderno, que ajuda a lidar com operações simultâneas de maneira eficaz e escalável. 
 
 ## Stack da API
 
